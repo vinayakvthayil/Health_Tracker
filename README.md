@@ -45,7 +45,7 @@ Get instant feedback on your health data:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/vinayakvthayil/Health_Tracker/tree/main/frontend.git  
-   cd health-tracker-frontend  
+   cd frontend  
    ```  
 2. Install dependencies:  
    ```bash  
@@ -61,7 +61,7 @@ Get instant feedback on your health data:
 1. Clone the backend repository:  
    ```bash  
    git clone https://github.com/vinayakvthayil/Health_Tracker/tree/main/backend.git    
-   cd health-tracker-backend  
+   cd backend  
    ```  
 2. Configure the `application.properties` file with your database credentials.  
 3. Build and run the SpringBoot server:  
