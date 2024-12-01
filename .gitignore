@@ -1,0 +1,10 @@
+/node_modules
+/.next
+/target
+/.idea
+.env*
+/frontend/node_modules/
+/frontend/.angular/
+/frontend/.idea/
+/backend/target/
+/backend/.idea/
