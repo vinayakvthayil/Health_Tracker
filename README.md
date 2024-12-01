@@ -44,7 +44,7 @@ Get instant feedback on your health data:
 ### Frontend Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/vinayakvthayil/Health_Tracker.git  
+   git clone https://github.com/vinayakvthayil/Health_Tracker/tree/main/frontend.git  
    cd health-tracker-frontend  
    ```  
 2. Install dependencies:  
@@ -60,7 +60,7 @@ Get instant feedback on your health data:
 ### Backend Installation  
 1. Clone the backend repository:  
    ```bash  
-   git clone <repository-link>  
+   git clone https://github.com/vinayakvthayil/Health_Tracker/tree/main/backend.git    
    cd health-tracker-backend  
    ```  
 2. Configure the `application.properties` file with your database credentials.  
