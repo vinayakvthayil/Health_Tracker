@@ -76,3 +76,10 @@ Get instant feedback on your health data:
 3. Use the analytics page to review and analyze trends in your data.  
 
 ## 📷 Screenshots  
+<img src="https://github.com/user-attachments/assets/b0a49933-21b0-4585-aff0-0fa6a5f44f83" alt="Image 1" width="1000"/>
+<img src="https://github.com/user-attachments/assets/d52dd2b0-234d-4429-b623-077873ffa460" alt="Image 2" width="1000"/>
+<img src="https://github.com/user-attachments/assets/7c876afc-3a39-46cf-a0df-efb56d6a1c84" alt="Image 3" width="1000"/>
+<img src="https://github.com/user-attachments/assets/a2a2b5ec-c881-4a8a-8578-5955cc68ab73" alt="Image 4" width="1000"/>
+
+
+
