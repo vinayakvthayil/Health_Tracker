@@ -2,7 +2,7 @@
 
 **Health Tracker** is a comprehensive health tracking application built with Angular and Java SpringBoot. It empowers users to monitor their daily health metrics and visualize progress over time with interactive charts and real-time updates.  
 
-## 🌟 Features  
+## 🌟 Features   
 
 ### Multi-Metric Tracking  
 Track and log various health indicators for a holistic health overview:  
