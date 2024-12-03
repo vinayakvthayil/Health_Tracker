@@ -26,7 +26,7 @@ Get instant feedback on your health data:
 ## 🔧 Technology Stack  
 
 ### Frontend  
-- **Framework**: Angular 18.2  
+- **Framework**: Angular 
 - **UI Styling**: TailwindCSS  
 - **Icons**: Font Awesome  
 
